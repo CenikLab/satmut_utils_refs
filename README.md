@@ -1,6 +1,6 @@
-# satmut_utils_refs:
+# satmut\_utils\_refs:
 
-This repository provides a curated set of primary transcripts for use with [satmut_utils](https://github.com/ijhoskins/satmut_utils). Please see the satmut_utils for usage.
+This repository provides a curated set of primary transcripts for use with [satmut_utils](https://github.com/CenikLab/satmut_utils). Please see the satmut\_utils manual for usage.
 
 Curation of principal Ensembl transcripts utilized [APPRIS](https://apprisws.bioinfo.cnio.es/landing_page/).
 
